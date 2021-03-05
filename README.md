@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-✉️ &nbsp;You can shoot me an email at arpitbhatt027@gmail.com I'll try to respond as soon as I can.
+✉️ &nbsp;How to reach me: arpitbhatt027@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
