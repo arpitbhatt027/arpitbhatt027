@@ -18,13 +18,5 @@
 <br>
 
 <br/>
-[![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/sriharikapu)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sriharikapu?style=social)](https://www.twitter.com/sriharikapu)
-[![Linkedin Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/sriharikapu/)
-[![Instagram Badge](https://img.shields.io/badge/-sriharikapu-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/sriharikapu/)
-[![ACADEMIA Badge](https://img.shields.io/badge/-sriharikapu-yellow?style=flat-square&logo=Academia&logoColor=white&link=https://independent.academia.edu/SrihariKapu)](https://independent.academia.edu/SrihariKapu)
-[![Facebook Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/officialsriharikapu)
-[![Medium Badge](https://img.shields.io/badge/-sriharikapu-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sriharikapu)](https://medium.com/@sriharikapu)
-[![Telegram Badge](https://img.shields.io/badge/-sriharikapu-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@sriharikapu)](https://telegram.org/@sriharikapu)
-[![Sourcerer Badge](https://img.shields.io/badge/-sriharikapu-orange?style=flat-square&logo=Scribd&logoColor=white&link=https://sourcerer.io/sriharikapu)](https://sourcerer.io/sriharikapu)
-[![Website Badge](https://img.shields.io/badge/-sriharikapu-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.sriharikapu.com/)
+
+<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">   <a  href="https://www.instagram.com/sharannyo_/"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sharannyobasu/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://medium.com/@yobasu2015"><img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
