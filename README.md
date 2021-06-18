@@ -14,3 +14,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/arpit-bhatt-3a413b62/">LinkedIn</a>
+<a href="https://arpitbhatt027.medium.com/">Medium</a>
+<a href="https://stackoverflow.com/users/9775271/arpitbhatt027?tab=profile">Stack Overflow</a>
