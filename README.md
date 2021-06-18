@@ -16,3 +16,12 @@
 <a href="https://www.linkedin.com/in/arpit-bhatt-3a413b62/">LinkedIn</a>
 <a href="https://arpitbhatt027.medium.com/">Medium</a>
 <a href="https://stackoverflow.com/users/9775271/arpitbhatt027?tab=profile">Stack Overflow</a>
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/sriharikapu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sriharikapu?style=social)](https://www.twitter.com/sriharikapu)
+[![Linkedin Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/sriharikapu/)
+[![Instagram Badge](https://img.shields.io/badge/-sriharikapu-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/sriharikapu/)
+[![ACADEMIA Badge](https://img.shields.io/badge/-sriharikapu-yellow?style=flat-square&logo=Academia&logoColor=white&link=https://independent.academia.edu/SrihariKapu)](https://independent.academia.edu/SrihariKapu)
+[![Facebook Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/officialsriharikapu)
+[![Medium Badge](https://img.shields.io/badge/-sriharikapu-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sriharikapu)](https://medium.com/@sriharikapu)
