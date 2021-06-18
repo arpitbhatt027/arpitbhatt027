@@ -21,4 +21,4 @@
 [![GitHub followers](https://img.shields.io/github/followers/arpitbhatt027?style=social)](https://github.com/arpitbhatt027)
 [![Linkedin Badge](https://img.shields.io/badge/-arpitbhatt027-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-bhatt-3a413b62/)](https://www.linkedin.com/in/arpit-bhatt-3a413b62/)
 [![Instagram Badge](https://img.shields.io/badge/-arpitbhatt027-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arpitbhatt027/)](https://www.instagram.com/arpitbhatt027/)
-[![Medium Badge](https://img.shields.io/badge/-sriharikapu-black?style=flat-square&logo=Medium&logoColor=white&link=https://arpitbhatt027.medium.com/)](https://arpitbhatt027.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-arpitbhatt027-black?style=flat-square&logo=Medium&logoColor=white&link=https://arpitbhatt027.medium.com/)](https://arpitbhatt027.medium.com/)
