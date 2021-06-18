@@ -18,7 +18,13 @@
 <br>
 
 <br/>
-[![GitHub followers](https://img.shields.io/github/followers/arpitbhatt027?style=social)](https://github.com/arpitbhatt027)
-[![Linkedin Badge](https://img.shields.io/badge/-arpitbhatt027-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-bhatt-3a413b62/)](https://www.linkedin.com/in/arpit-bhatt-3a413b62/)
-[![Instagram Badge](https://img.shields.io/badge/-arpitbhatt027-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arpitbhatt027/)](https://www.instagram.com/arpitbhatt027/)
-[![Medium Badge](https://img.shields.io/badge/-arpitbhatt027-black?style=flat-square&logo=Medium&logoColor=white&link=https://arpitbhatt027.medium.com/)](https://arpitbhatt027.medium.com/)
+[![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/sriharikapu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sriharikapu?style=social)](https://www.twitter.com/sriharikapu)
+[![Linkedin Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/sriharikapu/)
+[![Instagram Badge](https://img.shields.io/badge/-sriharikapu-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/sriharikapu/)
+[![ACADEMIA Badge](https://img.shields.io/badge/-sriharikapu-yellow?style=flat-square&logo=Academia&logoColor=white&link=https://independent.academia.edu/SrihariKapu)](https://independent.academia.edu/SrihariKapu)
+[![Facebook Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/officialsriharikapu)
+[![Medium Badge](https://img.shields.io/badge/-sriharikapu-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sriharikapu)](https://medium.com/@sriharikapu)
+[![Telegram Badge](https://img.shields.io/badge/-sriharikapu-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@sriharikapu)](https://telegram.org/@sriharikapu)
+[![Sourcerer Badge](https://img.shields.io/badge/-sriharikapu-orange?style=flat-square&logo=Scribd&logoColor=white&link=https://sourcerer.io/sriharikapu)](https://sourcerer.io/sriharikapu)
+[![Website Badge](https://img.shields.io/badge/-sriharikapu-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.sriharikapu.com/)
