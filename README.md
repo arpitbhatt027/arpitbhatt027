@@ -13,9 +13,9 @@ Website: https://arpitbhatt.com/
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="https://www.linkedin.com/in/arpit-bhatt-3a413b62/">LinkedIn</a>
-<a href="https://arpitbhatt027.medium.com/">Medium</a>
-<a href="https://stackoverflow.com/users/9775271/arpitbhatt027?tab=profile">Stack Overflow</a>
+<a href="https://www.linkedin.com/in/arpit-bhatt-3a413b62/">LinkedIn</a> ||
+<a href="https://arpitbhatt027.medium.com/">Medium</a> ||
+<a href="https://stackoverflow.com/users/9775271/arpitbhatt027?tab=profile">Stack Overflow</a> 
 <br>
 
 <br/>
